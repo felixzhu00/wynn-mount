@@ -1,0 +1,1150 @@
+{
+  "1": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 4,
+      "handling": 0,
+      "toughness": 8,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 4,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 2,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 6
+    },
+    "wood": {
+      "speed": 2,
+      "acceleration": 6,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 4,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 8,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 4,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 2,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 4,
+      "toughness": 0,
+      "boost": 6,
+      "training": 0
+    },
+    "grains": {
+      "speed": 8,
+      "acceleration": 0,
+      "altitude": 4,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 2,
+      "energy": 0,
+      "handling": 6,
+      "toughness": 0,
+      "boost": 0,
+      "training": 4
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 4,
+      "altitude": 0,
+      "energy": 8,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "10": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 10,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 5,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 2,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 8
+    },
+    "wood": {
+      "speed": 2,
+      "acceleration": 8,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 5,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 10,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 5,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 2,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 5,
+      "toughness": 0,
+      "boost": 8,
+      "training": 0
+    },
+    "grains": {
+      "speed": 10,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 2,
+      "energy": 0,
+      "handling": 8,
+      "toughness": 0,
+      "boost": 0,
+      "training": 5
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 10,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "20": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 12,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 6,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 3,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 9
+    },
+    "wood": {
+      "speed": 3,
+      "acceleration": 9,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 6,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 12,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 5,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 3,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 6,
+      "toughness": 0,
+      "boost": 9,
+      "training": 0
+    },
+    "grains": {
+      "speed": 12,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 3,
+      "energy": 0,
+      "handling": 9,
+      "toughness": 0,
+      "boost": 0,
+      "training": 6
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 12,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "30": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 6,
+      "handling": 0,
+      "toughness": 14,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 6,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 3,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 11
+    },
+    "wood": {
+      "speed": 3,
+      "acceleration": 11,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 6,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 14,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 6,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 3,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 6,
+      "toughness": 0,
+      "boost": 11,
+      "training": 0
+    },
+    "grains": {
+      "speed": 14,
+      "acceleration": 0,
+      "altitude": 6,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 3,
+      "energy": 0,
+      "handling": 11,
+      "toughness": 0,
+      "boost": 0,
+      "training": 6
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 6,
+      "altitude": 0,
+      "energy": 14,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "40": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 6,
+      "handling": 0,
+      "toughness": 16,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 7,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 3,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 12
+    },
+    "wood": {
+      "speed": 3,
+      "acceleration": 12,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 7,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 16,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 6,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 3,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 7,
+      "toughness": 0,
+      "boost": 12,
+      "training": 0
+    },
+    "grains": {
+      "speed": 16,
+      "acceleration": 0,
+      "altitude": 6,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 3,
+      "energy": 0,
+      "handling": 12,
+      "toughness": 0,
+      "boost": 0,
+      "training": 7
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 6,
+      "altitude": 0,
+      "energy": 16,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "50": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 7,
+      "handling": 0,
+      "toughness": 18,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 8,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 4,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 14
+    },
+    "wood": {
+      "speed": 4,
+      "acceleration": 14,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 8,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 18,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 7,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 4,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 8,
+      "toughness": 0,
+      "boost": 14,
+      "training": 0
+    },
+    "grains": {
+      "speed": 18,
+      "acceleration": 0,
+      "altitude": 7,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 4,
+      "energy": 0,
+      "handling": 14,
+      "toughness": 0,
+      "boost": 0,
+      "training": 8
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 7,
+      "altitude": 0,
+      "energy": 18,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "60": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 8,
+      "handling": 0,
+      "toughness": 20,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 9,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 4,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 15
+    },
+    "wood": {
+      "speed": 4,
+      "acceleration": 15,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 9,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 20,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 8,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 4,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 9,
+      "toughness": 0,
+      "boost": 15,
+      "training": 0
+    },
+    "grains": {
+      "speed": 20,
+      "acceleration": 0,
+      "altitude": 8,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 4,
+      "energy": 0,
+      "handling": 15,
+      "toughness": 0,
+      "boost": 0,
+      "training": 9
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 8,
+      "altitude": 0,
+      "energy": 20,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "70": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 8,
+      "handling": 0,
+      "toughness": 22,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 10,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 4,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 17
+    },
+    "wood": {
+      "speed": 4,
+      "acceleration": 17,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 10,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 22,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 8,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 4,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 10,
+      "toughness": 0,
+      "boost": 17,
+      "training": 0
+    },
+    "grains": {
+      "speed": 22,
+      "acceleration": 0,
+      "altitude": 8,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 4,
+      "energy": 0,
+      "handling": 17,
+      "toughness": 0,
+      "boost": 0,
+      "training": 10
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 8,
+      "altitude": 0,
+      "energy": 22,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "80": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 9,
+      "handling": 0,
+      "toughness": 24,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 10,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 4,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 18
+    },
+    "wood": {
+      "speed": 4,
+      "acceleration": 18,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 10,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 24,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 9,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 4,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 10,
+      "toughness": 0,
+      "boost": 18,
+      "training": 0
+    },
+    "grains": {
+      "speed": 24,
+      "acceleration": 0,
+      "altitude": 9,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 4,
+      "energy": 0,
+      "handling": 18,
+      "toughness": 0,
+      "boost": 0,
+      "training": 10
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 9,
+      "altitude": 0,
+      "energy": 24,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "90": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 9,
+      "handling": 0,
+      "toughness": 26,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 11,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 20
+    },
+    "wood": {
+      "speed": 5,
+      "acceleration": 20,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 11,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 26,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 9,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 11,
+      "toughness": 0,
+      "boost": 20,
+      "training": 0
+    },
+    "grains": {
+      "speed": 26,
+      "acceleration": 0,
+      "altitude": 9,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 20,
+      "toughness": 0,
+      "boost": 0,
+      "training": 11
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 9,
+      "altitude": 0,
+      "energy": 26,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "100": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 10,
+      "handling": 0,
+      "toughness": 28,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 12,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 21
+    },
+    "wood": {
+      "speed": 5,
+      "acceleration": 21,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 12,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 28,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 10,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 12,
+      "toughness": 0,
+      "boost": 21,
+      "training": 0
+    },
+    "grains": {
+      "speed": 28,
+      "acceleration": 0,
+      "altitude": 10,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 21,
+      "toughness": 0,
+      "boost": 0,
+      "training": 12
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 10,
+      "altitude": 0,
+      "energy": 28,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "105": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 10,
+      "handling": 0,
+      "toughness": 29,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 12,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 22
+    },
+    "wood": {
+      "speed": 5,
+      "acceleration": 22,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 12,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 29,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 10,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 12,
+      "toughness": 0,
+      "boost": 22,
+      "training": 0
+    },
+    "grains": {
+      "speed": 29,
+      "acceleration": 0,
+      "altitude": 10,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 22,
+      "toughness": 0,
+      "boost": 0,
+      "training": 12
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 10,
+      "altitude": 0,
+      "energy": 29,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "110": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 11,
+      "handling": 0,
+      "toughness": 30,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 13,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 23
+    },
+    "wood": {
+      "speed": 5,
+      "acceleration": 23,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 13,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 30,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 11,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 13,
+      "toughness": 0,
+      "boost": 23,
+      "training": 0
+    },
+    "grains": {
+      "speed": 30,
+      "acceleration": 0,
+      "altitude": 11,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 23,
+      "toughness": 0,
+      "boost": 0,
+      "training": 13
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 11,
+      "altitude": 0,
+      "energy": 30,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  },
+  "115": {
+    "ingot": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 11,
+      "handling": 0,
+      "toughness": 31,
+      "boost": 0,
+      "training": 0
+    },
+    "gem": {
+      "speed": 13,
+      "acceleration": 0,
+      "altitude": 0,
+      "energy": 5,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 23
+    },
+    "wood": {
+      "speed": 5,
+      "acceleration": 23,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 13,
+      "boost": 0,
+      "training": 0
+    },
+    "paper": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 31,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 11,
+      "training": 0
+    },
+    "string": {
+      "speed": 0,
+      "acceleration": 5,
+      "altitude": 0,
+      "energy": 0,
+      "handling": 13,
+      "toughness": 0,
+      "boost": 23,
+      "training": 0
+    },
+    "grains": {
+      "speed": 31,
+      "acceleration": 0,
+      "altitude": 11,
+      "energy": 0,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    },
+    "oil": {
+      "speed": 0,
+      "acceleration": 0,
+      "altitude": 5,
+      "energy": 0,
+      "handling": 23,
+      "toughness": 0,
+      "boost": 0,
+      "training": 13
+    },
+    "meat": {
+      "speed": 0,
+      "acceleration": 11,
+      "altitude": 0,
+      "energy": 31,
+      "handling": 0,
+      "toughness": 0,
+      "boost": 0,
+      "training": 0
+    }
+  }
+}
